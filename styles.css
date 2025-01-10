@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    gap: 700px;
 }
 ul {
  gap: 20px;
@@ -18,7 +19,7 @@ ul {
 .left-text {
  display: flex;
  flex-direction: column;
-
+ height: 100%;
 }
 body {
  width: 100%;
@@ -35,6 +36,7 @@ a, p {
 }
 button, .blue-container {
  background-color: #3882f6;
+ 
 }
 .card-text {
  font-size: 36px;
@@ -45,7 +47,7 @@ nav, header, footer {
 .quote-section {
  background-color: #E5E7EB;
 }
-.quote-text, .quote-text-writer{
+.quote-text {
  font-size: 36px;
  font-style: italic;
  color: #1F2937;
@@ -118,4 +120,25 @@ width: 150px;
  margin: 0;
  font-size: 16px;
  padding-top: 5px;
+}
+.quote-text-container {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 800px;
+}
+.quote-text {
+ margin: 0;
+ padding-top: 100px;
+}
+.quote-text-writer-container {
+ display: flex;
+ width: 100%;
+ justify-content: center;
+}
+.quote-text-writer{
+ margin: 0 0 100px 500px;
+ font-size: 20px;
+ font-style: italic;
+ color: #1F2937;
 }
