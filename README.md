@@ -1,6 +1,7 @@
-# landing_page
-**My first landing page project using html and css**
- This was my first time doing a landing page using html and css trying to maintain best practices when organizing
+# **My first landing page project using html and css**
+This was my first time doing a landing page using html and css trying to maintain best practices when organizing
+ 
+ 
 1- **NaV**
 * Nav menu with the logo and links
 
@@ -19,7 +20,7 @@
 6 - **Footer**
 * footer with text centered to it
 
-**Tools used**
+# **Tools used**
 * **HTML5**
 * **CSS3**
 * **FLEXBOX** 
