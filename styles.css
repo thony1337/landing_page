@@ -166,3 +166,8 @@ width: 150px;
 h3 {
  color: #F9FAF8;
 }
+footer {
+ display: flex;
+ justify-content: center;
+ padding: 15px 0px;
+}
